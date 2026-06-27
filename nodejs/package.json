@@ -1,0 +1,13 @@
+{
+  "name": "sina-proxy",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "node-fetch": "^2.7.0",
+    "socks-proxy-agent": "^8.0.3"
+  }
+}
